@@ -1,0 +1,73 @@
+﻿@model IEnumerable<BITCollege_TravisTaylor.Models.Student>
+
+
+    @*@ViewBag.Title = "Index";*@
+
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<div id="linefeeds">
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.StudentNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FullName)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.Address)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.program.ProgramAcronym)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.gPAState.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OutstandingFees)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Notes)
+            </th>
+            <th></th>
+        </tr>
+</div>
+
+@foreach (var item in Model) {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.StudentNumber)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.FullName)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.FullAddress)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.program.ProgramAcronym)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.gPAState.Description)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.OutstandingFees)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Notes)
+    </td>
+    <td>
+        @Html.ActionLink("Edit", "Edit", new { id = item.StudentId }) |
+        @Html.ActionLink("Details", "Details", new { id = item.StudentId }) |
+        @Html.ActionLink("Delete", "Delete", new { id = item.StudentId })
+    </td>
+</tr>
+}
+
+</table>

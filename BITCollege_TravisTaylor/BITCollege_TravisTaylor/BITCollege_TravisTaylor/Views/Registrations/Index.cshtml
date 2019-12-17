@@ -1,0 +1,63 @@
+﻿@model IEnumerable<BITCollege_TravisTaylor.Models.Registration>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<div id="linefeeds">
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.RegistrationNumber)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.student.FullName)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.course.CourseNumber)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.RegistrationDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Grade)
+            </th>
+
+            <th></th>
+        </tr>
+</div>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.RegistrationNumber)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.student.FullName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.course.CourseNumber)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.RegistrationDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Grade)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.RegistrationId }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.RegistrationId }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.RegistrationId })
+                </td>
+            </tr>
+        }
+
+    </table>

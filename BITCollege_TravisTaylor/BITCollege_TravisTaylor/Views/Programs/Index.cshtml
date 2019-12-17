@@ -1,0 +1,41 @@
+﻿@model IEnumerable<BITCollege_TravisTaylor.Models.Program>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<div id="linefeeds">
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ProgramAcronym)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th></th>
+        </tr>
+</div>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProgramAcronym)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.ProgramId }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.ProgramId }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.ProgramId })
+                </td>
+            </tr>
+        }
+
+    </table>

@@ -1,0 +1,65 @@
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\bin\Debug\ADEV3000Windows.exe.config
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\obj\x86\Debug\ADEV3000Windows.frmLinq.resources
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\obj\x86\Debug\ADEV3000Windows.frmMDI.resources
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\obj\x86\Debug\ADEV3000Windows.frmSyntax.resources
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\obj\x86\Debug\ADEV3000Windows.frmWCFService.resources
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\obj\x86\Debug\ADEV3000Windows.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\obj\x86\Debug\ADEV3000Windows.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\bin\Debug\ADEV3000Windows.exe
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\bin\Debug\ADEV3000Windows.pdb
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\obj\x86\Debug\ADEV3000Windows.exe
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\obj\x86\Debug\ADEV3000Windows.pdb
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\obj\x86\Debug\ADEV3000Windows.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\obj\x86\Debug\ADEV3000Windows.frmDataSource.resources
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\bin\Debug\ADEV3000Lecture.dll
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\bin\Debug\System.Web.Http.dll
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\bin\Debug\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\bin\Debug\DotNetOpenAuth.AspNet.dll
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\bin\Debug\System.Net.Http.dll
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\bin\Debug\WebGrease.dll
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\bin\Debug\DotNetOpenAuth.Core.dll
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\bin\Debug\DotNetOpenAuth.OAuth.dll
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\bin\Debug\DotNetOpenAuth.OpenId.dll
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\bin\Debug\ADEV3000Lecture.pdb
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\bin\Debug\System.Web.Http.xml
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\bin\Debug\DotNetOpenAuth.AspNet.xml
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\bin\Debug\System.Net.Http.xml
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\bin\Debug\DotNetOpenAuth.Core.xml
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\bin\Debug\DotNetOpenAuth.OAuth.xml
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\bin\Debug\DotNetOpenAuth.OpenId.xml
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\ADEV3000Lecture\ADEV3000Windows\obj\x86\Debug\ADEV3000Windows.frmFileIO.resources
+C:\Users\Administrator\Desktop\LectureMaterial\ADEV3000Lecture\ADEV3000Windows\bin\Debug\ADEV3000Windows.exe.config
+C:\Users\Administrator\Desktop\LectureMaterial\ADEV3000Lecture\ADEV3000Windows\obj\x86\Debug\ADEV3000Windows.exe
+C:\Users\Administrator\Desktop\LectureMaterial\ADEV3000Lecture\ADEV3000Windows\obj\x86\Debug\ADEV3000Windows.pdb
+C:\Users\Administrator\Desktop\Programming 3\Lecture Notes\LectureMaterial\Lecture Starter\ADEV3000Windows\bin\Debug\ADEV3000Windows.exe.config
+C:\Users\Administrator\Desktop\Programming 3\Lecture Notes\LectureMaterial\Lecture Starter\ADEV3000Windows\obj\x86\Debug\ADEV3000Windows.exe
+C:\Users\Administrator\Desktop\Programming 3\Lecture Notes\LectureMaterial\Lecture Starter\ADEV3000Windows\obj\x86\Debug\ADEV3000Windows.pdb
+C:\Users\Administrator\Desktop\Programming 3\Lecture Notes\LectureMaterial\Lecture Starter\ADEV3000\ADEV3000Windows\bin\Debug\ADEV3000Windows.exe.config
+C:\Users\Administrator\Desktop\Programming 3\Lecture Notes\LectureMaterial\Lecture Starter\ADEV3000\ADEV3000Windows\obj\x86\Debug\ADEV3000Windows.exe
+C:\Users\Administrator\Desktop\Programming 3\Lecture Notes\LectureMaterial\Lecture Starter\ADEV3000\ADEV3000Windows\obj\x86\Debug\ADEV3000Windows.pdb
+C:\Users\Administrator\Desktop\Programming 3\Lecture Notes\LectureMaterial\Lecture Starter\ADEV3000\ADEV3000Windows\obj\x86\Debug\ADEV3000Windows.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Programming 3\Lecture Notes\LectureMaterial\Lecture Starter\ADEV3000\ADEV3000Windows\obj\x86\Debug\ADEV3000Windows.frmDataSource.resources
+C:\Users\Administrator\Desktop\Programming 3\Lecture Notes\LectureMaterial\Lecture Starter\ADEV3000\ADEV3000Windows\obj\x86\Debug\ADEV3000Windows.frmFileIO.resources
+C:\Users\Administrator\Desktop\Programming 3\Lecture Notes\LectureMaterial\Lecture Starter\ADEV3000\ADEV3000Windows\obj\x86\Debug\ADEV3000Windows.frmLinq.resources
+C:\Users\Administrator\Desktop\Programming 3\Lecture Notes\LectureMaterial\Lecture Starter\ADEV3000\ADEV3000Windows\obj\x86\Debug\ADEV3000Windows.frmMDI.resources
+C:\Users\Administrator\Desktop\Programming 3\Lecture Notes\LectureMaterial\Lecture Starter\ADEV3000\ADEV3000Windows\obj\x86\Debug\ADEV3000Windows.frmSyntax.resources
+C:\Users\Administrator\Desktop\Programming 3\Lecture Notes\LectureMaterial\Lecture Starter\ADEV3000\ADEV3000Windows\obj\x86\Debug\ADEV3000Windows.frmWCFService.resources
+C:\Users\Administrator\Desktop\Programming 3\Lecture Notes\LectureMaterial\Lecture Starter\ADEV3000\ADEV3000Windows\obj\x86\Debug\ADEV3000Windows.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Programming 3\Lecture Notes\LectureMaterial\Lecture Starter\ADEV3000\ADEV3000Windows\obj\x86\Debug\ADEV3000Windows.csproj.GenerateResource.Cache

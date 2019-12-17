@@ -1,0 +1,4 @@
+DOCUMENT: InData.xml CONTAINS EMPLOYEES
+
+NAME: humanresources VALUE: JohnSmith100JoeJohnson200BettyBradley300
+COUNT: 1

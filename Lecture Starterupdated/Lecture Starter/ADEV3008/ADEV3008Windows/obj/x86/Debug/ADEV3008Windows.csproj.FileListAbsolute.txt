@@ -1,0 +1,60 @@
+C:\Users\Administrator\Desktop\Lecture Starter\Lecture Starter\ADEV3008\ADEV3008Windows\bin\Debug\ADEV3000Windows.exe.config
+C:\Users\Administrator\Desktop\Lecture Starter\Lecture Starter\ADEV3008\ADEV3008Windows\bin\Debug\ADEV3000Windows.exe
+C:\Users\Administrator\Desktop\Lecture Starter\Lecture Starter\ADEV3008\ADEV3008Windows\bin\Debug\ADEV3000Windows.pdb
+C:\Users\Administrator\Desktop\Lecture Starter\Lecture Starter\ADEV3008\ADEV3008Windows\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\Lecture Starter\Lecture Starter\ADEV3008\ADEV3008Windows\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\Lecture Starter\Lecture Starter\ADEV3008\ADEV3008Windows\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\Lecture Starter\Lecture Starter\ADEV3008\ADEV3008Windows\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\Lecture Starter\Lecture Starter\ADEV3008\ADEV3008Windows\obj\x86\Debug\ADEV3008Windows.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Lecture Starter\Lecture Starter\ADEV3008\ADEV3008Windows\obj\x86\Debug\ADEV3000Windows.frmDataSource.resources
+C:\Users\Administrator\Desktop\Lecture Starter\Lecture Starter\ADEV3008\ADEV3008Windows\obj\x86\Debug\ADEV3000Windows.frmFileIO.resources
+C:\Users\Administrator\Desktop\Lecture Starter\Lecture Starter\ADEV3008\ADEV3008Windows\obj\x86\Debug\ADEV3000Windows.frmLinq.resources
+C:\Users\Administrator\Desktop\Lecture Starter\Lecture Starter\ADEV3008\ADEV3008Windows\obj\x86\Debug\ADEV3000Windows.frmMDI.resources
+C:\Users\Administrator\Desktop\Lecture Starter\Lecture Starter\ADEV3008\ADEV3008Windows\obj\x86\Debug\ADEV3000Windows.frmSyntax.resources
+C:\Users\Administrator\Desktop\Lecture Starter\Lecture Starter\ADEV3008\ADEV3008Windows\obj\x86\Debug\ADEV3000Windows.frmWCFService.resources
+C:\Users\Administrator\Desktop\Lecture Starter\Lecture Starter\ADEV3008\ADEV3008Windows\obj\x86\Debug\ADEV3000Windows.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Lecture Starter\Lecture Starter\ADEV3008\ADEV3008Windows\obj\x86\Debug\ADEV3008Windows.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Lecture Starter\Lecture Starter\ADEV3008\ADEV3008Windows\obj\x86\Debug\ADEV3008Windows.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Lecture Starter\Lecture Starter\ADEV3008\ADEV3008Windows\obj\x86\Debug\ADEV3008Windows.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Lecture Starter\Lecture Starter\ADEV3008\ADEV3008Windows\obj\x86\Debug\ADEV3000Windows.exe
+C:\Users\Administrator\Desktop\Lecture Starter\Lecture Starter\ADEV3008\ADEV3008Windows\obj\x86\Debug\ADEV3000Windows.pdb
+C:\Users\Administrator\Desktop\Updated Starter\Lecture Starter\Lecture Starter\ADEV3008\ADEV3008Windows\bin\Debug\ADEV3000Windows.exe.config
+C:\Users\Administrator\Desktop\Updated Starter\Lecture Starter\Lecture Starter\ADEV3008\ADEV3008Windows\bin\Debug\ADEV3000Windows.exe
+C:\Users\Administrator\Desktop\Updated Starter\Lecture Starter\Lecture Starter\ADEV3008\ADEV3008Windows\bin\Debug\ADEV3000Windows.pdb
+C:\Users\Administrator\Desktop\Updated Starter\Lecture Starter\Lecture Starter\ADEV3008\ADEV3008Windows\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\Updated Starter\Lecture Starter\Lecture Starter\ADEV3008\ADEV3008Windows\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\Updated Starter\Lecture Starter\Lecture Starter\ADEV3008\ADEV3008Windows\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\Updated Starter\Lecture Starter\Lecture Starter\ADEV3008\ADEV3008Windows\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\Updated Starter\Lecture Starter\Lecture Starter\ADEV3008\ADEV3008Windows\obj\x86\Debug\ADEV3008Windows.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Updated Starter\Lecture Starter\Lecture Starter\ADEV3008\ADEV3008Windows\obj\x86\Debug\ADEV3000Windows.frmDataSource.resources
+C:\Users\Administrator\Desktop\Updated Starter\Lecture Starter\Lecture Starter\ADEV3008\ADEV3008Windows\obj\x86\Debug\ADEV3000Windows.frmFileIO.resources
+C:\Users\Administrator\Desktop\Updated Starter\Lecture Starter\Lecture Starter\ADEV3008\ADEV3008Windows\obj\x86\Debug\ADEV3000Windows.frmLinq.resources
+C:\Users\Administrator\Desktop\Updated Starter\Lecture Starter\Lecture Starter\ADEV3008\ADEV3008Windows\obj\x86\Debug\ADEV3000Windows.frmMDI.resources
+C:\Users\Administrator\Desktop\Updated Starter\Lecture Starter\Lecture Starter\ADEV3008\ADEV3008Windows\obj\x86\Debug\ADEV3000Windows.frmSyntax.resources
+C:\Users\Administrator\Desktop\Updated Starter\Lecture Starter\Lecture Starter\ADEV3008\ADEV3008Windows\obj\x86\Debug\ADEV3000Windows.frmWCFService.resources
+C:\Users\Administrator\Desktop\Updated Starter\Lecture Starter\Lecture Starter\ADEV3008\ADEV3008Windows\obj\x86\Debug\ADEV3000Windows.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Updated Starter\Lecture Starter\Lecture Starter\ADEV3008\ADEV3008Windows\obj\x86\Debug\ADEV3008Windows.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Updated Starter\Lecture Starter\Lecture Starter\ADEV3008\ADEV3008Windows\obj\x86\Debug\ADEV3008Windows.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Updated Starter\Lecture Starter\Lecture Starter\ADEV3008\ADEV3008Windows\obj\x86\Debug\ADEV3008Windows.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Updated Starter\Lecture Starter\Lecture Starter\ADEV3008\ADEV3008Windows\obj\x86\Debug\ADEV3000Windows.exe
+C:\Users\Administrator\Desktop\Updated Starter\Lecture Starter\Lecture Starter\ADEV3008\ADEV3008Windows\obj\x86\Debug\ADEV3000Windows.pdb
+C:\Users\Administrator\source\repos\Lecture Starterupdated\Lecture Starter\ADEV3008\ADEV3008Windows\bin\Debug\ADEV3000Windows.exe.config
+C:\Users\Administrator\source\repos\Lecture Starterupdated\Lecture Starter\ADEV3008\ADEV3008Windows\bin\Debug\ADEV3000Windows.exe
+C:\Users\Administrator\source\repos\Lecture Starterupdated\Lecture Starter\ADEV3008\ADEV3008Windows\bin\Debug\ADEV3000Windows.pdb
+C:\Users\Administrator\source\repos\Lecture Starterupdated\Lecture Starter\ADEV3008\ADEV3008Windows\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\source\repos\Lecture Starterupdated\Lecture Starter\ADEV3008\ADEV3008Windows\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\source\repos\Lecture Starterupdated\Lecture Starter\ADEV3008\ADEV3008Windows\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\source\repos\Lecture Starterupdated\Lecture Starter\ADEV3008\ADEV3008Windows\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\source\repos\Lecture Starterupdated\Lecture Starter\ADEV3008\ADEV3008Windows\obj\x86\Debug\ADEV3008Windows.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Lecture Starterupdated\Lecture Starter\ADEV3008\ADEV3008Windows\obj\x86\Debug\ADEV3000Windows.frmDataSource.resources
+C:\Users\Administrator\source\repos\Lecture Starterupdated\Lecture Starter\ADEV3008\ADEV3008Windows\obj\x86\Debug\ADEV3000Windows.frmFileIO.resources
+C:\Users\Administrator\source\repos\Lecture Starterupdated\Lecture Starter\ADEV3008\ADEV3008Windows\obj\x86\Debug\ADEV3000Windows.frmLinq.resources
+C:\Users\Administrator\source\repos\Lecture Starterupdated\Lecture Starter\ADEV3008\ADEV3008Windows\obj\x86\Debug\ADEV3000Windows.frmMDI.resources
+C:\Users\Administrator\source\repos\Lecture Starterupdated\Lecture Starter\ADEV3008\ADEV3008Windows\obj\x86\Debug\ADEV3000Windows.frmSyntax.resources
+C:\Users\Administrator\source\repos\Lecture Starterupdated\Lecture Starter\ADEV3008\ADEV3008Windows\obj\x86\Debug\ADEV3000Windows.frmWCFService.resources
+C:\Users\Administrator\source\repos\Lecture Starterupdated\Lecture Starter\ADEV3008\ADEV3008Windows\obj\x86\Debug\ADEV3000Windows.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Lecture Starterupdated\Lecture Starter\ADEV3008\ADEV3008Windows\obj\x86\Debug\ADEV3008Windows.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Lecture Starterupdated\Lecture Starter\ADEV3008\ADEV3008Windows\obj\x86\Debug\ADEV3008Windows.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Lecture Starterupdated\Lecture Starter\ADEV3008\ADEV3008Windows\obj\x86\Debug\ADEV3008Windows.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Lecture Starterupdated\Lecture Starter\ADEV3008\ADEV3008Windows\obj\x86\Debug\ADEV3000Windows.exe
+C:\Users\Administrator\source\repos\Lecture Starterupdated\Lecture Starter\ADEV3008\ADEV3008Windows\obj\x86\Debug\ADEV3000Windows.pdb

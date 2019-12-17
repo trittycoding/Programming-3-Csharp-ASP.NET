@@ -1,0 +1,51 @@
+2019-331-CA.xml
+<program>CA</program>
+<student_no>11111117</student_no>
+<course_no>G-169997</course_no>
+<registration_no>*</registration_no>
+<type>1</type>
+
+<notes>***ERROR*** Incorrect number of nodes</notes>
+6
+Node count is not equal to seven
+-----------------
+2019-331-CA.xml
+<program>CA</program>
+<student_no>11111117</student_no>
+<course_no>G-169997</course_no>
+<registration_no>*</registration_no>
+<type>1</type>
+<grade>@</grade>
+<notes>***ERROR*** Invalid Grade Value</notes>
+7
+Value for grade isn't valid
+-----------------
+2019-331-CA.xml
+<program>CA</program>
+<student_no>11111115</student_no>
+<course_no>D-12345</course_no>
+<registration_no>*</registration_no>
+<type>1</type>
+<grade>*</grade>
+<notes>***ERROR*** Course does not exist</notes>
+7
+Invalid course number
+-----------------
+2019-331-CA.xml
+<program>CA</program>
+<student_no>11111119</student_no>
+<course_no>G-469997</course_no>
+<registration_no>2001</registration_no>
+<type>2</type>
+<grade>22</grade>
+<notes>***ERROR*** Course for Type 2 should be a *</notes>
+7
+Invalid course number
+-----------------
+Grade 51 applied to student 11111115 for registration 3019
+Grade 35.4 applied to student 11111115 for registration 3020
+Student cannot register for a course in which there is already an ungraded registration.
+Student has exceeded maximum attempts on a mastery course.
+Successful registration for student number: 11111115. Course selected: G-469998
+Successful registration for student number: 11111115. Course selected: G-469994
+Successful registration for student number: 11111115. Course selected: G-469993

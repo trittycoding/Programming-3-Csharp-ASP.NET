@@ -1,0 +1,73 @@
+2019-331-VT.xml
+<program>VT</program>
+<student_no>11111112</student_no>
+<course_no>*</course_no>
+<registration_no>216</registration_no>
+<type>2</type>
+
+<notes>***ERROR*** Incorrect number of Child Nodes</notes>
+6
+Node count is not equal to seven
+-----------------
+2019-331-VT.xml
+<program>VV</program>
+<student_no>11111112</student_no>
+<course_no>*</course_no>
+<registration_no>222</registration_no>
+<type>2</type>
+<grade>90</grade>
+<notes>**ERROR*** Invalid Program Acronym</notes>
+7
+Program listed is not equal to the root value.
+-----------------
+2019-331-VT.xml
+<program>VT</program>
+<student_no>11111112</student_no>
+<course_no>M-50032</course_no>
+<registration_no>*</registration_no>
+<type>1</type>
+<grade>@</grade>
+<notes>***ERROR*** Invalid Grade Value</notes>
+7
+Value for grade isn't valid
+-----------------
+2019-331-VT.xml
+<program>VT</program>
+<student_no>1111</student_no>
+<course_no>G-269998</course_no>
+<registration_no>*</registration_no>
+<type>1</type>
+<grade>*</grade>
+<notes>***ERROR*** Student does not exist</notes>
+7
+Student Number does not exist within database
+-----------------
+2019-331-VT.xml
+<program>VT</program>
+<student_no>11111112</student_no>
+<course_no>G-100006</course_no>
+<registration_no>1000</registration_no>
+<type>2</type>
+<grade>22</grade>
+<notes>***ERROR*** Course for Type 2 should be a *</notes>
+7
+Invalid course number
+-----------------
+2019-331-VT.xml
+<program>VT</program>
+<student_no>11111112</student_no>
+<course_no>D-12345</course_no>
+<registration_no>*</registration_no>
+<type>1</type>
+<grade>*</grade>
+<notes>***ERROR*** Course does not exist</notes>
+7
+Invalid course number
+-----------------
+Grade 93.2 applied to student 11111113 for registration 3010
+Grade 91.6 applied to student 11111113 for registration 3011
+Grade 91 applied to student 11111113 for registration 3012
+Grade 90 applied to student 11111113 for registration 3013
+Grade 93 applied to student 11111113 for registration 3014
+Successful registration for student number: 11111113. Course selected: G-269998
+Successful registration for student number: 11111113. Course selected: G-269996

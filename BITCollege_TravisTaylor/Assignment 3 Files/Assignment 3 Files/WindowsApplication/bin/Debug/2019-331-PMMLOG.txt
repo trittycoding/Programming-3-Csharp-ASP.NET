@@ -1,0 +1,40 @@
+2019-331-PMM.xml
+<program>PMM</program>
+<student_no>11111111</student_no>
+<course_no>M-16999</course_no>
+<registration_no>*</registration_no>
+<type>1</type>
+<grade>@</grade>
+<notes>***ERROR*** Invalid Grade Value</notes>
+7
+Value for grade isn't valid
+-----------------
+2019-331-PMM.xml
+<program>PMM</program>
+<student_no>11111112</student_no>
+<course_no>D-12345</course_no>
+<registration_no>*</registration_no>
+<type>1</type>
+<grade>*</grade>
+<notes>***ERROR*** Course does not exist</notes>
+7
+Invalid course number
+-----------------
+2019-331-PMM.xml
+<program>PMM</program>
+<student_no>11111111</student_no>
+<course_no>G-169997</course_no>
+<registration_no>2001</registration_no>
+<type>2</type>
+<grade>22</grade>
+<notes>***ERROR*** Course for Type 2 should be a *</notes>
+7
+Invalid course number
+-----------------
+Grade 98 applied to student 11111111 for registration 3003
+Grade 50 applied to student 11111112 for registration 3008
+Student has exceeded maximum attempts on a mastery course.
+Successful registration for student number: 11111111. Course selected: G-169996
+Successful registration for student number: 11111111. Course selected: G-169997
+Student has exceeded maximum attempts on a mastery course.
+Successful registration for student number: 11111112. Course selected: G-169996
